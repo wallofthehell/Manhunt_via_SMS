@@ -10,7 +10,7 @@
 
 ## 설치 및 다운로드
 이 애플리케이션의 설치 파일(APK)은 아래 다운로드 링크에서 확인하실 수 있습니다.
-- [⬇️ 설치 APK 다운로드 파일 보기 (Releases/APK Branch)](https://github.com/wallofthehell/Manhunt_via_SMS/raw/master/apk/Manhunt_via_SMS.apk)
+- [⬇️ 설치 APK 다운로드 파일 보기 (Releases/APK Branch)](https://github.com/wallofthehell/Manhunt_via_SMS/blob/main/Manhunt_via_SMS.apk)
 
 ## 사용 방법
 1. 통신사로부터 받은 SMS 로그를 준비합니다.
